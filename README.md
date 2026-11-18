@@ -15,6 +15,20 @@ A responsive restaurant menu and food ordering web application built with Next.j
 - Checkout form for customer name, phone number, and delivery address.
 - Order confirmation simulation.
 
+## Live Demo
+
+[Visit Mchopify](https://mchopify.vercel.app/)
+
+## Screenshots
+
+### Desktop View
+
+![Mchopify desktop menu](./screenshots/mchopify-desktop.png)
+
+### Mobile View
+
+![Mchopify mobile menu](./screenshots/mchopify-mobile.jpeg)
+
 ## Tech Stack
 
 - Next.js
